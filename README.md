@@ -1,4 +1,4 @@
-# projeto iot + tilapia (rascunho)
+# projeto iot + tilapia
 
 esse projeto e um ponto de partida para estudar ml com dados reais de piscicultura.
 ideia: usar pH, o2, temperatura e outros sinais do viveiro para entender crescimento e risco de saude do peixe.
