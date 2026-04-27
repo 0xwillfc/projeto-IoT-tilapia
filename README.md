@@ -30,7 +30,7 @@ iot-tilapia-ml-draft/
   requirements.txt
 ```
 
-## passo a passo (bem simples)
+## passo a passo
 
 1. criar ambiente virtual
 
@@ -74,5 +74,5 @@ python src/train_classification.py --data "data/raw/Data Model IoTMLCQ 2024.xlsx
 
 ## dicas de iniciante
 
-1. primeiro rode os scripts sem mexer em nada, so para ver funcionar.
-2. depois abra o `notebooks/01_eda_template.md` e faca analises simples dos dados.
+1. primeiro rode os scripts sem mexer em nada, só para ver funcionar.
+2. depois abra o `notebooks/01_eda_template.md` e faça análises simples dos dados.
